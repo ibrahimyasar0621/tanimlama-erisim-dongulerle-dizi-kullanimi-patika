@@ -1,0 +1,14 @@
+C:\Users\ibrah\Desktop\ibrahim\pratikler\tanımlama-diziler-donguler\bin\Debug\net7.0\tanımlama-diziler-donguler.exe
+C:\Users\ibrah\Desktop\ibrahim\pratikler\tanımlama-diziler-donguler\bin\Debug\net7.0\tanımlama-diziler-donguler.deps.json
+C:\Users\ibrah\Desktop\ibrahim\pratikler\tanımlama-diziler-donguler\bin\Debug\net7.0\tanımlama-diziler-donguler.runtimeconfig.json
+C:\Users\ibrah\Desktop\ibrahim\pratikler\tanımlama-diziler-donguler\bin\Debug\net7.0\tanımlama-diziler-donguler.dll
+C:\Users\ibrah\Desktop\ibrahim\pratikler\tanımlama-diziler-donguler\bin\Debug\net7.0\tanımlama-diziler-donguler.pdb
+C:\Users\ibrah\Desktop\ibrahim\pratikler\tanımlama-diziler-donguler\obj\Debug\net7.0\tanımlama-diziler-donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\ibrahim\pratikler\tanımlama-diziler-donguler\obj\Debug\net7.0\tanımlama-diziler-donguler.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\ibrahim\pratikler\tanımlama-diziler-donguler\obj\Debug\net7.0\tanımlama-diziler-donguler.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\ibrahim\pratikler\tanımlama-diziler-donguler\obj\Debug\net7.0\tanımlama-diziler-donguler.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\ibrahim\pratikler\tanımlama-diziler-donguler\obj\Debug\net7.0\tanımlama-diziler-donguler.dll
+C:\Users\ibrah\Desktop\ibrahim\pratikler\tanımlama-diziler-donguler\obj\Debug\net7.0\refint\tanımlama-diziler-donguler.dll
+C:\Users\ibrah\Desktop\ibrahim\pratikler\tanımlama-diziler-donguler\obj\Debug\net7.0\tanımlama-diziler-donguler.pdb
+C:\Users\ibrah\Desktop\ibrahim\pratikler\tanımlama-diziler-donguler\obj\Debug\net7.0\tanımlama-diziler-donguler.genruntimeconfig.cache
+C:\Users\ibrah\Desktop\ibrahim\pratikler\tanımlama-diziler-donguler\obj\Debug\net7.0\ref\tanımlama-diziler-donguler.dll
